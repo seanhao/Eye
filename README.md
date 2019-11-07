@@ -7,7 +7,7 @@
 
 經由python做深度學習train出來的模型轉換為ios可使用的Core ML
 
-<img src="https://github.com/seanhao/Eye/blob/master/Demo/demo_1.png" width="30%" height="30%">
+<img src="https://github.com/seanhao/Eye/blob/master/Demo/demo_1.png" width="80%" height="80%">
 
 + APP介面
 
